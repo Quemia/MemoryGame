@@ -8,7 +8,8 @@
 A simple memory game to train my HTML+CSS+JS:
 
 
-![Memory Game](https://user-images.githubusercontent.com/55935949/140441143-8e2a2449-2b61-4c2b-9072-c0db068158a8.png)
+![memoryGame](https://user-images.githubusercontent.com/55935949/140441748-9a81f2d2-dde7-49c2-a7c9-e6cc0eae7df3.gif)
+
 
 
 ### Prerequisites :page_with_curl:
