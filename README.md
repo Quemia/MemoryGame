@@ -9,6 +9,12 @@ A simple memory game to train my HTML+CSS+JS:
 
 
 
+![Memory Game](
+https://user-images.githubusercontent.com/55935949/140441318-6008be93-af42-4fda-9ef9-d4f5ae5e719d.mp4
+)
+)
+
+
 ### Prerequisites :page_with_curl:
 
   ```
