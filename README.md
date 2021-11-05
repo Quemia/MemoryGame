@@ -8,10 +8,7 @@
 A simple memory game to train my HTML+CSS+JS:
 
 
-
-![Memory Game](
-https://user-images.githubusercontent.com/55935949/140441318-6008be93-af42-4fda-9ef9-d4f5ae5e719d.mp4
-)
+![Memory Game](![Screenshot_20211104_220117](https://user-images.githubusercontent.com/55935949/140441143-8e2a2449-2b61-4c2b-9072-c0db068158a8.png)
 )
 
 
